@@ -1,0 +1,138 @@
+/*div {
+	border: solid 1px black;
+}
+*/
+
+body {
+	font-family: 'Dosis', sans-serif;
+}
+
+#navbar {
+	background-color: #CC4A14;
+	width: 100%;
+	height: 124px;
+}
+
+.links {
+	padding-top: 20px;
+	margin-bottom: 0px;
+}
+
+#email {
+	display: inline-block;
+	margin-left: 200px;
+}
+
+#insta {
+	display: inline-block;
+	margin-left: 100px;
+}
+
+#fb {
+	display: inline-block;
+	margin-left: 100px;
+}
+
+#blog {
+	display: inline-block;
+	margin-left: 100px;
+}
+
+body h1 {
+	position: absolute;
+	margin-top: 0px;
+	color: white;
+}
+
+h2, p {
+	color: #990E3D;
+	font-size: 1.5em;
+}
+
+#timeline {
+	position: relative;
+	background: url("deepkitsch.jpg"); opacity: .4;
+	margin-top: 10px;
+	width: 100%;
+	height: 400px;
+	margin-bottom: 10px;
+}
+
+.left {
+	position: absolute;
+	width: 368px;
+	height: 400px;
+	margin-left: 25px;
+	top: 130px;
+}
+
+.middle {
+	position: absolute;
+	width: 368px;
+	height: 400px;
+	margin-left: 443px;
+	top: 130px;
+}
+
+.right {
+	position: absolute;
+	width: 368px;
+	height: 400px;
+	margin-left: 861px;
+	top: 130px;
+}
+
+.right #dolls {
+	float: right;
+	padding-top: 3 0px;
+}
+
+#d1 {
+	height: 75px;
+}
+
+#d2 {
+	height: 125px;
+}
+
+#d3 {
+	height: 200px;
+}
+
+#fun	{
+	background-color: #FA6443;
+	height: 150px;
+}
+
+#ins {
+	position: absolute;
+	height: 50px;
+	width: 200px;
+/*	margin-left: 375px;
+*/	margin-left: 100px;
+	padding-top: 35px;
+}
+
+#day {
+	position: absolute;
+	height: 50px;
+	width: 200px;
+	/*margin-left: 700px;*/
+	margin-left: 425px;
+	padding-top: 35px;
+}
+
+@media (max-width: 760px) {
+	body{background-color: purple;}
+}
+/*
+
+.cf:before,
+.cf:after {
+	content: "";
+	display: table;
+}
+
+.cf:after {
+	clear: both;
+}*/
